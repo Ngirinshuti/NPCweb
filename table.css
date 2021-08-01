@@ -1,0 +1,20 @@
+table{
+	width: 100%;
+}
+thead{
+	background-color: grey;
+}
+th{
+	width: 5cm;
+	display: inline-table;
+}
+td{
+	width: 5cm;
+	
+}
+.tbl1{
+	background-color: white;
+}
+fieldset{
+	overflow: scroll;
+}
